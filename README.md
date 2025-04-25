@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Aahil-coder172
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... I am in 6th Class
+- 🌱 I’m currently learning ... Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... using Youtube
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... Coder
 - ⚡ Fun fact: ... Pro
 
 <!---
